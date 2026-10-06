@@ -1,0 +1,17 @@
+# Maven build directories
+target/
+
+# Gradle build directories
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.swp
+*.swo
+.vscode/
+
+# OS metadata
+.DS_Store
+Thumbs.db
